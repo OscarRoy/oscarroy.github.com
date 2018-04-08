@@ -19,7 +19,7 @@ button.forEach(function(button){
     content.classList.add("fadeOutUp");
 
     setTimeout(function(){
-      location.href = "/Los-Mejores_Disco_Metal";
+      location.href = "/Los_Mejores_Discos_Metal";
     },600);
 
     return false;
