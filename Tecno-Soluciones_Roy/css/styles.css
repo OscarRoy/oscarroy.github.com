@@ -3,8 +3,8 @@ body{
 }
 
 a{
-  text-decoration: none;
   color: white;
+  text-decoration: none;
 }
 
 address{
@@ -20,7 +20,7 @@ h1{
 }
 
 .article{
-padding: 0px;
+ padding: 0;
 }
 
 .body{
@@ -33,12 +33,9 @@ padding: 0px;
 
 .main-header{
   background-color:#030537;
-  padding-left:0;
-  padding-right:15px;
-  padding-top:40px;
-  padding-bottom: 40px;
   border-radius: 4px;
   margin: 0;
+  padding: 40px 15px 40px 0;
 }
 
 .nav-tittle{
